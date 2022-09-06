@@ -1,0 +1,19 @@
+body{
+  background-color: #D0F4DE;
+}
+
+#title{
+  background-color: #FF99C8;
+  border-style: dotted;
+  border-color: #A9DEF9
+}
+
+.row{
+  background-color: #E4C1F9;
+  border-style: solid;
+}
+
+.column{
+  background-color:#A9DEF9;
+  
+}
